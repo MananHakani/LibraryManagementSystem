@@ -6,7 +6,6 @@ public class LibraryManagementSystem
 {
     public static void main(String[] args)
     {
-        System.out.println("Manan Hakani S080");
         System.out.println("Project Title: Library Management System");
         System.out.println("1- Admin Login");      
         System.out.println("0- Exit");
